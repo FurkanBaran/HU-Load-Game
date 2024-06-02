@@ -10,6 +10,7 @@ HU-Load Game is a JavaFX-based mining game developed as an assignment. The playe
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Class Diagram and Checklist](#class-diagram-and-checklist)
+- [Screenshots](#screenshots)
 
 
 ## Introduction
@@ -57,3 +58,10 @@ Collect valuable minerals and avoid obstacles to achieve the highest score.d
 ## Class Diagram and Checklist
 The UML class diagram and project checklist are available in the [UML_Diagram.pdf](UML_Diagram.pdf) file.
 
+## Screenshots
+![Ekran görüntüsü 2024-06-02 203346](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/5e53180c-9c25-4ad1-85ee-ad046a31a220)
+![Ekran görüntüsü 2024-06-02 203403](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/dbe0d4b0-f26d-423c-8a9d-9e678a518963)
+![Ekran görüntüsü 2024-06-02 203425](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/a5946349-0881-453e-bdfd-38af169c4535)
+![Ekran görüntüsü 2024-06-02 203534](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/660a936e-7dde-4698-b42c-6b1778e51344)
+![Ekran görüntüsü 2024-06-02 203541](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/2bc0d3ff-2b21-435e-97c1-d3b5817f5a74)
+![Ekran görüntüsü 2024-06-02 203547](https://github.com/FurkanBaran/HU-Load-Game/assets/21145014/4c14a4e0-a9f0-4ecc-b800-20dd620e7a2d)
